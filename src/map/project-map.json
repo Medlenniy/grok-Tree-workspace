@@ -1,0 +1,704 @@
+{
+  "name": "grok-Tree-workspace",
+  "kind": "dir",
+  "children": [
+    {
+      "name": "migrations",
+      "kind": "dir",
+      "children": [
+        {
+          "name": "auth",
+          "kind": "dir",
+          "children": [
+            {
+              "name": "0001_auth.sql",
+              "kind": "file"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "public",
+      "kind": "dir",
+      "children": [
+        {
+          "name": "__grok",
+          "kind": "dir",
+          "children": [
+            {
+              "name": "install",
+              "kind": "dir",
+              "children": [
+                {
+                  "name": "assets",
+                  "kind": "dir",
+                  "children": [
+                    {
+                      "name": "homescreen",
+                      "kind": "dir",
+                      "children": [
+                        {
+                          "name": "glass-puzzle.svg",
+                          "kind": "file"
+                        },
+                        {
+                          "name": "glass-share.svg",
+                          "kind": "file"
+                        },
+                        {
+                          "name": "logo-grok.svg",
+                          "kind": "file"
+                        },
+                        {
+                          "name": "ob-ipad.png",
+                          "kind": "file"
+                        },
+                        {
+                          "name": "ob-phone.png",
+                          "kind": "file"
+                        },
+                        {
+                          "name": "plus.svg",
+                          "kind": "file"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "styles.css",
+                  "kind": "file"
+                }
+              ]
+            },
+            {
+              "name": "icon-180.png",
+              "kind": "file"
+            }
+          ]
+        },
+        {
+          "name": "favicon.svg",
+          "kind": "file"
+        },
+        {
+          "name": "og.jpg",
+          "kind": "file"
+        },
+        {
+          "name": "x-banner.jpg",
+          "kind": "file"
+        }
+      ]
+    },
+    {
+      "name": "screenshots",
+      "kind": "dir",
+      "children": [
+        {
+          "name": "app-builder-built-mobile.png",
+          "kind": "file"
+        },
+        {
+          "name": "app-builder-built.json",
+          "kind": "file"
+        },
+        {
+          "name": "app-builder-built.png",
+          "kind": "file"
+        },
+        {
+          "name": "atlas-built-mobile.png",
+          "kind": "file"
+        },
+        {
+          "name": "atlas-built.json",
+          "kind": "file"
+        },
+        {
+          "name": "atlas-built.png",
+          "kind": "file"
+        },
+        {
+          "name": "atlas-ember.png",
+          "kind": "file"
+        },
+        {
+          "name": "atlas-from-home.png",
+          "kind": "file"
+        },
+        {
+          "name": "atlas-frost.png",
+          "kind": "file"
+        },
+        {
+          "name": "atlas-grown.png",
+          "kind": "file"
+        },
+        {
+          "name": "atlas-mobile.png",
+          "kind": "file"
+        },
+        {
+          "name": "atlas-regen.png",
+          "kind": "file"
+        },
+        {
+          "name": "atlas-wide-angle.png",
+          "kind": "file"
+        },
+        {
+          "name": "atlas.json",
+          "kind": "file"
+        },
+        {
+          "name": "atlas.png",
+          "kind": "file"
+        },
+        {
+          "name": "home-mobile.png",
+          "kind": "file"
+        },
+        {
+          "name": "home.json",
+          "kind": "file"
+        },
+        {
+          "name": "home.png",
+          "kind": "file"
+        }
+      ]
+    },
+    {
+      "name": "scripts",
+      "kind": "dir",
+      "children": [
+        {
+          "name": "app-env-plugin.mjs",
+          "kind": "file"
+        },
+        {
+          "name": "brand-check.mjs",
+          "kind": "file"
+        },
+        {
+          "name": "brand-check.test.mjs",
+          "kind": "file"
+        },
+        {
+          "name": "browser-guard.mjs",
+          "kind": "file"
+        },
+        {
+          "name": "browser-smoke-verdict.mjs",
+          "kind": "file"
+        },
+        {
+          "name": "browser-smoke-verdict.test.mjs",
+          "kind": "file"
+        },
+        {
+          "name": "browser-smoke.mjs",
+          "kind": "file"
+        },
+        {
+          "name": "build-project-map.mjs",
+          "kind": "file"
+        },
+        {
+          "name": "check-auth-invariant.mjs",
+          "kind": "file"
+        },
+        {
+          "name": "check-auth-invariant.test.mjs",
+          "kind": "file"
+        },
+        {
+          "name": "grok-pwa-plugin.mjs",
+          "kind": "file"
+        },
+        {
+          "name": "grok-pwa-plugin.test.mjs",
+          "kind": "file"
+        },
+        {
+          "name": "grok-pwa-shared.d.mts",
+          "kind": "file"
+        },
+        {
+          "name": "grok-pwa-shared.mjs",
+          "kind": "file"
+        },
+        {
+          "name": "install-page.html",
+          "kind": "file"
+        },
+        {
+          "name": "migrate.mjs",
+          "kind": "file"
+        },
+        {
+          "name": "migration-plan.mjs",
+          "kind": "file"
+        },
+        {
+          "name": "migration-plan.test.mjs",
+          "kind": "file"
+        },
+        {
+          "name": "preview-thumbnail.mjs",
+          "kind": "file"
+        },
+        {
+          "name": "preview.mjs",
+          "kind": "file"
+        },
+        {
+          "name": "preview.test.mjs",
+          "kind": "file"
+        },
+        {
+          "name": "sign-out-plan.mjs",
+          "kind": "file"
+        },
+        {
+          "name": "sign-out-plan.test.mjs",
+          "kind": "file"
+        },
+        {
+          "name": "with-app-env.mjs",
+          "kind": "file"
+        },
+        {
+          "name": "with-app-env.test.mjs",
+          "kind": "file"
+        },
+        {
+          "name": "write-atomic.mjs",
+          "kind": "file"
+        },
+        {
+          "name": "write-atomic.test.mjs",
+          "kind": "file"
+        }
+      ]
+    },
+    {
+      "name": "server",
+      "kind": "dir",
+      "children": [
+        {
+          "name": "middleware",
+          "kind": "dir",
+          "children": [
+            {
+              "name": "grok-pwa.ts",
+              "kind": "file"
+            }
+          ]
+        },
+        {
+          "name": "virtual-grok-og-identity.d.ts",
+          "kind": "file"
+        }
+      ]
+    },
+    {
+      "name": "src",
+      "kind": "dir",
+      "children": [
+        {
+          "name": "components",
+          "kind": "dir",
+          "children": [
+            {
+              "name": "layout",
+              "kind": "dir",
+              "children": [
+                {
+                  "name": "page-frame.tsx",
+                  "kind": "file"
+                }
+              ]
+            },
+            {
+              "name": "tree",
+              "kind": "dir",
+              "children": [
+                {
+                  "name": "controls-panel.tsx",
+                  "kind": "file"
+                },
+                {
+                  "name": "fractal-canvas.tsx",
+                  "kind": "file"
+                }
+              ]
+            },
+            {
+              "name": "ui",
+              "kind": "dir",
+              "children": [
+                {
+                  "name": "button.tsx",
+                  "kind": "file"
+                },
+                {
+                  "name": "slider.tsx",
+                  "kind": "file"
+                }
+              ]
+            },
+            {
+              "name": "app-shell.tsx",
+              "kind": "file"
+            },
+            {
+              "name": "preview-host-bridge.tsx",
+              "kind": "file"
+            },
+            {
+              "name": "site-header.tsx",
+              "kind": "file"
+            }
+          ]
+        },
+        {
+          "name": "hooks",
+          "kind": "dir",
+          "children": [
+            {
+              "name": "use-reduced-motion.ts",
+              "kind": "file"
+            }
+          ]
+        },
+        {
+          "name": "lib",
+          "kind": "dir",
+          "children": [
+            {
+              "name": "app-data",
+              "kind": "dir",
+              "children": [
+                {
+                  "name": "app-data.test.ts",
+                  "kind": "file"
+                },
+                {
+                  "name": "client.server.ts",
+                  "kind": "file"
+                },
+                {
+                  "name": "errors.ts",
+                  "kind": "file"
+                },
+                {
+                  "name": "index.ts",
+                  "kind": "file"
+                },
+                {
+                  "name": "login.ts",
+                  "kind": "file"
+                },
+                {
+                  "name": "readiness-schedule.test.ts",
+                  "kind": "file"
+                },
+                {
+                  "name": "readiness-schedule.ts",
+                  "kind": "file"
+                },
+                {
+                  "name": "readiness.ts",
+                  "kind": "file"
+                },
+                {
+                  "name": "server-only.ts",
+                  "kind": "file"
+                },
+                {
+                  "name": "types.ts",
+                  "kind": "file"
+                },
+                {
+                  "name": "use-connector-readiness.ts",
+                  "kind": "file"
+                }
+              ]
+            },
+            {
+              "name": "auth",
+              "kind": "dir",
+              "children": [
+                {
+                  "name": "client.ts",
+                  "kind": "file"
+                },
+                {
+                  "name": "email-password.ts",
+                  "kind": "file"
+                },
+                {
+                  "name": "gate-identity.server.ts",
+                  "kind": "file"
+                },
+                {
+                  "name": "gate-identity.test.ts",
+                  "kind": "file"
+                },
+                {
+                  "name": "gate-session-marker.ts",
+                  "kind": "file"
+                },
+                {
+                  "name": "gate-session.server.ts",
+                  "kind": "file"
+                },
+                {
+                  "name": "gates.tsx",
+                  "kind": "file"
+                },
+                {
+                  "name": "isolation.server.ts",
+                  "kind": "file"
+                },
+                {
+                  "name": "middleware.ts",
+                  "kind": "file"
+                },
+                {
+                  "name": "pglite-dialect.ts",
+                  "kind": "file"
+                },
+                {
+                  "name": "popup.server.ts",
+                  "kind": "file"
+                },
+                {
+                  "name": "preview.ts",
+                  "kind": "file"
+                },
+                {
+                  "name": "provider.tsx",
+                  "kind": "file"
+                },
+                {
+                  "name": "providers.ts",
+                  "kind": "file"
+                },
+                {
+                  "name": "server.ts",
+                  "kind": "file"
+                },
+                {
+                  "name": "sign-in-gate.test.ts",
+                  "kind": "file"
+                },
+                {
+                  "name": "sign-in-gate.ts",
+                  "kind": "file"
+                },
+                {
+                  "name": "use-current-user.ts",
+                  "kind": "file"
+                },
+                {
+                  "name": "verify.server.ts",
+                  "kind": "file"
+                }
+              ]
+            },
+            {
+              "name": "multiplayer",
+              "kind": "dir",
+              "children": [
+                {
+                  "name": "index.ts",
+                  "kind": "file"
+                },
+                {
+                  "name": "p2p.ts",
+                  "kind": "file"
+                }
+              ]
+            },
+            {
+              "name": "og",
+              "kind": "dir",
+              "children": [
+                {
+                  "name": "site.json",
+                  "kind": "file"
+                }
+              ]
+            },
+            {
+              "name": "cn.ts",
+              "kind": "file"
+            },
+            {
+              "name": "db.ts",
+              "kind": "file"
+            },
+            {
+              "name": "env.server.ts",
+              "kind": "file"
+            },
+            {
+              "name": "error-component.tsx",
+              "kind": "file"
+            },
+            {
+              "name": "palettes.ts",
+              "kind": "file"
+            },
+            {
+              "name": "preview-embedder-origin.ts",
+              "kind": "file"
+            },
+            {
+              "name": "preview-host-bridge.ts",
+              "kind": "file"
+            },
+            {
+              "name": "project-tree.ts",
+              "kind": "file"
+            },
+            {
+              "name": "tree-engine.ts",
+              "kind": "file"
+            },
+            {
+              "name": "tree-store.ts",
+              "kind": "file"
+            }
+          ]
+        },
+        {
+          "name": "map",
+          "kind": "dir",
+          "children": [
+            {
+              "name": "project-map.json",
+              "kind": "file"
+            }
+          ]
+        },
+        {
+          "name": "routes",
+          "kind": "dir",
+          "children": [
+            {
+              "name": "pages",
+              "kind": "dir",
+              "children": [
+                {
+                  "name": "analytics.tsx",
+                  "kind": "file"
+                },
+                {
+                  "name": "billing.tsx",
+                  "kind": "file"
+                },
+                {
+                  "name": "dashboard.tsx",
+                  "kind": "file"
+                },
+                {
+                  "name": "docs.tsx",
+                  "kind": "file"
+                },
+                {
+                  "name": "inbox.tsx",
+                  "kind": "file"
+                },
+                {
+                  "name": "index.tsx",
+                  "kind": "file"
+                },
+                {
+                  "name": "profile.tsx",
+                  "kind": "file"
+                },
+                {
+                  "name": "settings.tsx",
+                  "kind": "file"
+                },
+                {
+                  "name": "team.tsx",
+                  "kind": "file"
+                }
+              ]
+            },
+            {
+              "name": "__root.tsx",
+              "kind": "file"
+            },
+            {
+              "name": "atlas.tsx",
+              "kind": "file"
+            },
+            {
+              "name": "index.tsx",
+              "kind": "file"
+            },
+            {
+              "name": "pages.tsx",
+              "kind": "file"
+            },
+            {
+              "name": "structure.tsx",
+              "kind": "file"
+            }
+          ]
+        },
+        {
+          "name": "router.tsx",
+          "kind": "file"
+        },
+        {
+          "name": "routeTree.gen.ts",
+          "kind": "file"
+        },
+        {
+          "name": "styles.css",
+          "kind": "file"
+        }
+      ]
+    },
+    {
+      "name": "AGENTS.md",
+      "kind": "file"
+    },
+    {
+      "name": "eslint.config.mjs",
+      "kind": "file"
+    },
+    {
+      "name": "INFO.md",
+      "kind": "file"
+    },
+    {
+      "name": "package-lock.json",
+      "kind": "file"
+    },
+    {
+      "name": "package.json",
+      "kind": "file"
+    },
+    {
+      "name": "startup.sh",
+      "kind": "file"
+    },
+    {
+      "name": "tsconfig.json",
+      "kind": "file"
+    },
+    {
+      "name": "vite.config.ts",
+      "kind": "file"
+    }
+  ]
+}
