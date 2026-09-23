@@ -1,0 +1,45 @@
+# Dependencies
+node_modules/
+.node_modules.lock
+
+# Build output
+dist/
+.output/
+.vercel/
+*.tsbuildinfo
+
+# Tool caches
+.tanstack/
+.vite/
+.eslintcache
+coverage/
+*.lcov
+
+# Local env and logs
+.env
+.env.*
+!.env.example
+*.log
+npm-debug.log*
+.npmrc
+
+
+# Generated drops
+artifacts/
+screenshots/
+playwright-report/
+test-results/
+blob-report/
+
+# Sandbox runtime, not the app
+.grok/preview.log
+.grok/status
+.grok/og-pending
+
+# OS and editors
+.DS_Store
+Thumbs.db
+Desktop.ini
+.idea/
+*.swp
+*.swo
